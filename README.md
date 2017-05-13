@@ -1,5 +1,5 @@
 # mapnyc
-Dear Professor Flynn, Professor Armstrong, and Professor LeBlanc, 
+Dear Professor Flynn, Professor Armstrong: 
 
 First and foremost thank you - for giving me the freedom to learn and fail and for being an excellent support system. 
 
