@@ -4,6 +4,7 @@ While this system made sense when jobs & people were concentrated in central / l
 When we look at the demographics of WHO lives in the outer-boroughs and what types of jobs are moving, there is some story there about the public transportation disproportionately affecting lower income residents of color...
 How can we use networks to model this reality? 
 
+## (1)
 We can ask: **do buses address the lack of connectivity observed in the subway system?** 
 First and foremost, there are barely any inter-borough buses which is a problem in and of itself. Moreover, the select bus service (which is supposed to address issues of speed and connectivity) doesn't have a single cross-borough line...
 We can build two graphs, one where bus routes are included and one where they aren't, for each neighborhood. This can then be scaled up for all of NYC. 
@@ -14,6 +15,7 @@ edges: whether or not these two stations are connected by a line
 (1) Measure the degree of connectivity relative to how much the network could be connected if all stations were connected
 y = e / e_max = e / 2v - 4 (for networks that have 2 or more lines in some vertices)
 
+## (2)
 or (and this question is more interconnected with social science / public policy research) we can ask: **does the transportation system effectively get outer-borough residents to and from work?**
 While the MTA collects data on who enters a station (turnstile data), it has no collection process for where people go or where they get off. Thus, we can't really quantiatively build a model that depicts what routes are most common. 
 However, several reports have used interviews to try and figure out where people need to be going, and with the development of real time GPS feeds, maybe this data becomes available
