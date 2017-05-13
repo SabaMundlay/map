@@ -8,6 +8,6 @@ This independent study has been a failure in many ways...I still have little to 
 ## What is in this: 
 (1) reflection: documentation of my emotions and struggles <br />
 (2) readshpfile.py: python script (written by Tom Armstrong) to read a shape file <br />
-(3) info: the data I found, academic sources I consulted, relevant contacts, and data projets that served as my inspiration <br />
+(3) info: the data I found, academic sources I consulted, relevant contacts, and data projets that inspired me <br />
 (4) problems: two different formulations of this project, including what type of data and network each requires <br />
 (5) Graph A: graph produced using Armstrong's code that shows all the bus routes in NYC
