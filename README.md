@@ -18,4 +18,4 @@ First and foremost thank you - for giving me the freedom to learn and fail and f
 (4) problems: two different (mathematical) formulations of this project, including what type of data and network each requires <br />
 (5) Graph A: graph produced using Armstrong's code that shows all the bus routes in NYC <br />
 (6) More code about graphs <br />
-(7) ## Illustrating with data!! 
+(7) **Illustrating with data!!**
