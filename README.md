@@ -1,8 +1,8 @@
-# mapnyc
+# map
 
 Dear visitors, 
 
-From Feb - May 2017 I spent a few months doing an independent study exploring transportation networks & playing around with data NYC's bus & subway system, run mainly by the MTA. So this repo is for my advisors to see what I learnt & for others interested in network science as it pertains to public transportation to browse through.
+From Feb - May 2017 I spent a few months doing an independent study exploring transportation networks & playing around with data NYC's bus & subway system, run mainly by the MTA. This repo is for my advisors to see what I learnt & for others interested in network science as it pertains to public transportation to browse through.
 
 (May 2017)
 Dear Professor Flynn, Professor Armstrong: 
@@ -19,3 +19,7 @@ First and foremost thank you - for giving me the freedom to learn and fail and f
 (5) Graph A: graph produced using Armstrong's code that shows all the bus routes in NYC <br />
 (6) More code about graphs <br />
 (7) **Illustrating with data!!**
+
+(July 2019) 
+
+I live in Mumbai now, so the focus of this project has shifted away from the MTA in NYC. Instead, I've been exploring the Mumbai Local through various visual mediums - check out this repo. 
