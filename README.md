@@ -22,4 +22,4 @@ First and foremost thank you - for giving me the freedom to learn and fail and f
 
 (July 2019) 
 
-I live in Mumbai now, so the focus of this project has shifted away from the MTA in NYC. Instead, I've been exploring the Mumbai Local through various visual mediums - check out this repo. 
+I live in Mumbai now, so the focus of this project has shifted away from the MTA in NYC. Instead, I've been exploring the Mumbai Local through various visual mediums
